@@ -112,7 +112,7 @@ input:focus {
   display: flex;
   margin-top: 0;
   justify-content: center;
-  gap: 20px;
+  gap: 19px;
 }
 .shareAleart .iconsShar i{
   transition: var(--transition);
